@@ -223,13 +223,6 @@ https://vavoo.to/play3/2767861049.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/563160609.m3u8.m3u8
-#EXTINF:-1 tvg-id="France24.it" tvg-name="FRANCE 24 (EN) (7)" tvg-logo="/live2/logo/2179686828.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",FRANCE 24 (EN) (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2179686828.m3u8.m3u8
 #EXTINF:-1 tvg-id="Giallo.it" tvg-name="GIALLO (7)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",GIALLO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1378,6 +1371,13 @@ https://vavoo.to/play3/3481346857.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2283887097.m3u8.m3u8
+#EXTINF:-1 tvg-id="Eurosport2Timvision.it" tvg-name="EUROSPORT 2 TIMVISION (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 2 TIMVISION (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1100261415.m3u8.m3u8
 #EXTINF:-1 tvg-id="Eurosport4Timvision.it" tvg-name="EUROSPORT 4 TIMVISION (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 4 TIMVISION (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1672,6 +1672,13 @@ https://vavoo.to/play3/1989562337.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3657217948.m3u8.m3u8
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTORTREND (6)" tvg-logo="/live2/logo/3758728323.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MOTORTREND (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3758728323.m3u8.m3u8
 #EXTINF:-1 tvg-id="NatGeo.it" tvg-name="NAT GEO (6)" tvg-logo="/live2/logo/1735702308.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1679,6 +1686,13 @@ https://vavoo.to/play3/3657217948.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1735702308.m3u8.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD (6)" tvg-logo="/live2/logo/3428501495.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NAT GEO WILD (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3428501495.m3u8.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="NICK JR (6)" tvg-logo="/live2/logo/380958472.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",NICK JR (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1777,6 +1791,13 @@ https://vavoo.to/play3/2944239261.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1232565681.m3u8.m3u8
+#EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-name="RADIONORBA TV (6)" tvg-logo="/live2/logo/2627662768.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RADIONORBA TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2627662768.m3u8.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 (6)" tvg-logo="/live2/logo/875922788.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RAI 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2099,20 +2120,6 @@ https://vavoo.to/play3/2890008905.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1820997555.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO (6)" tvg-logo="/live2/logo/2872151911.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY CINEMA UNO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2872151911.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkyCrime.it" tvg-name="SKY CRIME (6)" tvg-logo="/live2/logo/354961873.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY CRIME (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/354961873.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES (6)" tvg-logo="" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY DOCUMENTARIES (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2260,13 +2267,6 @@ https://vavoo.to/play3/836680112.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2775802255.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA (6)" tvg-logo="/live2/logo/3007400791.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT ARENA (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3007400791.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO (6)" tvg-logo="/live2/logo/1665920101.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT CALCIO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2631,13 +2631,6 @@ https://vavoo.to/play3/2521763009.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3271666551.m3u8.m3u8
-#EXTINF:-1 tvg-id="TGNorba24.it" tvg-name="TG NORBA 24 (6)" tvg-logo="/live2/logo/3379729817.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TG NORBA 24 (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3379729817.m3u8.m3u8
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCOM 24 (6)" tvg-logo="/live2/logo/2418148449.png" group-title="Italy" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TGCOM 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
