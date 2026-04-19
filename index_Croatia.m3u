@@ -174,6 +174,13 @@ https://vavoo.to/play3/3549681904.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/755040508.m3u8.m3u8
+#EXTINF:-1 tvg-id="CineStarTVPremiere1.hr" tvg-name="CINESTAR TV PREMIERE 1 (6)" tvg-logo="/live2/logo/2277793336.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINESTAR TV PREMIERE 1 (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2277793336.m3u8.m3u8
 #EXTINF:-1 tvg-id="CineStarTVPremiere2.hr" tvg-name="CINESTAR TV PREMIERE 2 (6)" tvg-logo="/live2/logo/3227788520.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",CINESTAR TV PREMIERE 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -321,13 +328,6 @@ https://vavoo.to/play3/2403774632.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3140991496.m3u8.m3u8
-#EXTINF:-1 tvg-id="Hbo.hr" tvg-name="HBO (6)" tvg-logo="/live2/logo/2787501807.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HBO (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2787501807.m3u8.m3u8
 #EXTINF:-1 tvg-id="Hbo2.hr" tvg-name="HBO 2 (6)" tvg-logo="/live2/logo/1142487290.png" group-title="Croatia" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HBO 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
