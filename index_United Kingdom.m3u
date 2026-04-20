@@ -216,13 +216,6 @@ https://vavoo.to/play3/3285986497.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3561753605.m3u8.m3u8
-#EXTINF:-1 tvg-id="AstroFootball.gb" tvg-name="ASTRO FOOTBALL (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ASTRO FOOTBALL (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2260252862.m3u8.m3u8
 #EXTINF:-1 tvg-id="AstroGrandstand.gb" tvg-name="ASTRO GRANDSTAND (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ASTRO GRANDSTAND (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1364,13 +1357,6 @@ https://vavoo.to/play3/2767023078.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3132903864.m3u8.m3u8
-#EXTINF:-1 tvg-id="DaznEvent1.gb" tvg-name="DAZN EVENT 1 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN EVENT 1 (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3798517075.m3u8.m3u8
 #EXTINF:-1 tvg-id="DaznEvent10.gb" tvg-name="DAZN EVENT 10 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN EVENT 10 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1560,6 +1546,13 @@ https://vavoo.to/play3/2500583024.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/1385585642.m3u8.m3u8
+#EXTINF:-1 tvg-id="DAZNWomensFootball.uk" tvg-name="DAZN WOMENS FOOTBALL (7)" tvg-logo="/live2/logo/889486300.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DAZN WOMENS FOOTBALL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/889486300.m3u8.m3u8
 #EXTINF:-1 tvg-id="DeathRace.gb" tvg-name="DEATH RACE (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",DEATH RACE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2183,6 +2176,13 @@ https://vavoo.to/play3/1636227229.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3284626621.m3u8.m3u8
+#EXTINF:-1 tvg-id="HighStreetTV3.uk" tvg-name="HIGH STREET TV 3 (7)" tvg-logo="/live2/logo/3698698224.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HIGH STREET TV 3 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3698698224.m3u8.m3u8
 #EXTINF:-1 tvg-id="Highlander.gb" tvg-name="HIGHLANDER ꜱᴇƦꞮᴇ (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",HIGHLANDER ꜱᴇƦꞮᴇ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2393,6 +2393,13 @@ https://vavoo.to/play3/3172198203.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3372984228.m3u8.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ITV 2 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/493678771.m3u8.m3u8
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3 (BACKUP) (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ITV 3 (BACKUP) (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -2652,13 +2659,6 @@ https://vavoo.to/play3/2439157265.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3253245476.m3u8.m3u8
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV LIVE (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3888798711.m3u8.m3u8
 #EXTINF:-1 tvg-id="MTVRKSW" tvg-name="MTV ROCKS (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",MTV ROCKS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3233,13 +3233,6 @@ https://vavoo.to/play3/2486718354.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4028458700.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySciFi.uk" tvg-name="SCI FI (7)" tvg-logo="/live2/logo/2641186223.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SCI FI (7)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2641186223.m3u8.m3u8
 #EXTINF:-1 tvg-id="SeanConnery.gb" tvg-name="SEAN CONNERY (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SEAN CONNERY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -3709,6 +3702,13 @@ https://vavoo.to/play3/4273932040.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2945721791.m3u8.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL (7)" tvg-logo="/live2/logo/2276770441.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS FOOTBALL (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2276770441.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL HD (7)" tvg-logo="/live2/logo/184602124.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS FOOTBALL HD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4276,6 +4276,13 @@ https://vavoo.to/play3/3189901205.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/828568117.m3u8.m3u8
+#EXTINF:-1 tvg-id="TntSports09.gb" tvg-name="TNT SPORTS 09 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 09 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1106959701.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT SPORTS 1 (7)" tvg-logo="/live2/logo/3640268356.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4290,6 +4297,13 @@ https://vavoo.to/play3/3640268356.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3863455692.m3u8.m3u8
+#EXTINF:-1 tvg-id="TNTSports10.uk" tvg-name="TNT SPORTS 10 (7)" tvg-logo="/live2/logo/2276879489.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 10 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2276879489.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT SPORTS 2 HD (7)" tvg-logo="/live2/logo/1757978671.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 2 HD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4311,6 +4325,13 @@ https://vavoo.to/play3/2757927089.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2930223528.m3u8.m3u8
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT SPORTS 5 (7)" tvg-logo="/live2/logo/763015300.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 5 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/763015300.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports6.uk" tvg-name="TNT SPORTS 6 (7)" tvg-logo="/live2/logo/1792723540.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",TNT SPORTS 6 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4465,6 +4486,13 @@ https://vavoo.to/play3/4256622958.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/372875800.m3u8.m3u8
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name="VH1 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VH1 (7)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/2472057422.m3u8.m3u8
 #EXTINF:-1 tvg-id="ViaplayEvent1.gb" tvg-name="VIAPLAY EVENT 1 (7)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",VIAPLAY EVENT 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4766,20 +4794,6 @@ https://vavoo.to/play3/3802353253.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3932296459.m3u8.m3u8
-#EXTINF:-1 tvg-id="92News.gb" tvg-name="92 NEWS (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",92 NEWS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2466243336.m3u8.m3u8
-#EXTINF:-1 tvg-id="Absolute.gb" tvg-name="ABSOLUTE (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ABSOLUTE (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3636946399.m3u8.m3u8
 #EXTINF:-1 tvg-id="AhlebaitTV.uk" tvg-name="AHLEBAIT TV (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AHLEBAIT TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4787,13 +4801,6 @@ https://vavoo.to/play3/3636946399.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3331268047.m3u8.m3u8
-#EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="AHLULBAYT TV (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AHLULBAYT TV (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3806225604.m3u8.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.gb" tvg-name="AL JAZEERA HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",AL JAZEERA HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4829,6 +4836,13 @@ https://vavoo.to/play3/3532839539.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3735119877.m3u8.m3u8
+#EXTINF:-1 tvg-id="Atn.gb" tvg-name="ATN (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ATN (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/1093162606.m3u8.m3u8
 #EXTINF:-1 tvg-id="BabyTvUk.gb" tvg-name="BABY TV UK (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BABY TV UK (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -4871,13 +4885,6 @@ https://vavoo.to/play3/3049102539.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2946324521.m3u8.m3u8
-#EXTINF:-1 tvg-id="BbcOneLondon.gb" tvg-name="BBC ONE LONDON (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC ONE LONDON (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2407028793.m3u8.m3u8
 #EXTINF:-1 tvg-id="BbcOneScothd.gb" tvg-name="BBC ONE SCOTHD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BBC ONE SCOTHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5039,20 +5046,6 @@ https://vavoo.to/play3/3872970879.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3522426267.m3u8.m3u8
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="BT SPORT 1 HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2541372545.m3u8.m3u8
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="BT SPORT 2 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 2 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2709037743.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="BT SPORT 2 (BACKUP) (1)" tvg-logo="/live2/logo/2912079936.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 2 (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5060,13 +5053,6 @@ https://vavoo.to/play3/2709037743.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2912079936.m3u8.m3u8
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="BT SPORT 2 HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 2 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/435503970.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="BT SPORT 3 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 3 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5081,13 +5067,6 @@ https://vavoo.to/play3/2618854175.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/815608118.m3u8.m3u8
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="BT SPORT 3 HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT 3 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3579790332.m3u8.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="BT SPORT ESPN (1)" tvg-logo="/live2/logo/3352660234.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT ESPN (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5095,13 +5074,6 @@ https://vavoo.to/play3/3579790332.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3352660234.m3u8.m3u8
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="BT SPORT ESPN HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BT SPORT ESPN HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/408026803.m3u8.m3u8
 #EXTINF:-1 tvg-id="C4L.gb" tvg-name="C4 L (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",C4 L (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5389,13 +5361,6 @@ https://vavoo.to/play3/780586604.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3030295351.m3u8.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-name="EDGESPORT (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EDGESPORT (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3088351394.m3u8.m3u8
 #EXTINF:-1 tvg-id="EirSport1.gb" tvg-name="EIR SPORT 1 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EIR SPORT 1 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5410,13 +5375,6 @@ https://vavoo.to/play3/2651568586.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2988131864.m3u8.m3u8
-#EXTINF:-1 tvg-id="EirSport2.gb" tvg-name="EIR SPORT 2 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EIR SPORT 2 (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3651912474.m3u8.m3u8
 #EXTINF:-1 tvg-id="EirSport2.gb" tvg-name="EIR SPORT 2 (BACKUP) (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EIR SPORT 2 (BACKUP) (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -5459,13 +5417,6 @@ https://vavoo.to/play3/2909580639.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2290804722.m3u8.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.gb" tvg-name="EUROSPORT 1 HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2737624792.m3u8.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.gb" tvg-name="EUROSPORT 2 (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",EUROSPORT 2 (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6306,13 +6257,6 @@ https://vavoo.to/play3/2636055540.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/4231850871.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySportAction.gb" tvg-name="SKY SPORT ACTION (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT ACTION (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/2547909328.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportCricket.gb" tvg-name="SKY SPORT CRICKET (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT CRICKET (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6320,13 +6264,6 @@ https://vavoo.to/play3/2547909328.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/2352556888.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySportGolf.gb" tvg-name="SKY SPORT GOLF (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT GOLF (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/1870352128.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportMix.gb" tvg-name="SKY SPORT MIX (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT MIX (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6334,13 +6271,6 @@ https://vavoo.to/play3/1870352128.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3140080865.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySportNews.gb" tvg-name="SKY SPORT NEWS (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT NEWS (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/357949903.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportPremierLeague.gb" tvg-name="SKY SPORT PREMIER LEAGUE (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORT PREMIER LEAGUE (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -6481,13 +6411,6 @@ https://vavoo.to/play3/3026248510.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3459381373.m3u8.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS HD (1)" tvg-logo="" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS NEWS HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3635211961.m3u8.m3u8
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-name="SKY SPORTS NFL (1)" tvg-logo="/live2/logo/824650177.png" group-title="United Kingdom" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",SKY SPORTS NFL (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
