@@ -426,6 +426,13 @@ https://vavoo.to/play3/3788101792.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/299373377.m3u8.m3u8
+#EXTINF:-1 tvg-id="BabyTv.bg" tvg-name="BABY TV (6)" tvg-logo="/live2/logo/3429908435.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BABY TV (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/3429908435.m3u8.m3u8
 #EXTINF:-1 tvg-id="BalkanikaMusicTv.bg" tvg-name="BALKANIKA MUSIC TV (6)" tvg-logo="/live2/logo/1063393777.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",BALKANIKA MUSIC TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -846,6 +853,13 @@ https://vavoo.to/play3/212348644.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3630894583.m3u8.m3u8
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="STAR LIFE (6)" tvg-logo="/live2/logo/4284215108.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",STAR LIFE (6)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://vavoo.to/play3/4284215108.m3u8.m3u8
 #EXTINF:-1 tvg-id="StingrayIconcerts.bg" tvg-name="STINGRAY ICONCERTS (6)" tvg-logo="/live2/logo/1315059119.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",STINGRAY ICONCERTS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -916,13 +930,6 @@ https://vavoo.to/play3/866601019.m3u8.m3u8
 #KODIPROP:http-referrer=https://vavoo.to/
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
 https://vavoo.to/play3/3995006118.m3u8.m3u8
-#EXTINF:-1 tvg-id="WnessTV.bg" tvg-name="WNESS TV (6)" tvg-logo="/live2/logo/3772974425.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",WNESS TV (6)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-#KODIPROP:http-user-agent=VAVOO/1.0
-#KODIPROP:http-referrer=https://vavoo.to/
-#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
-https://vavoo.to/play3/3772974425.m3u8.m3u8
 #EXTINF:-1 tvg-id="WorldFashionChannel.bg" tvg-name="WORLD FASHION CHANNEL (6)" tvg-logo="/live2/logo/1386348539.png" group-title="Bulgaria" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",WORLD FASHION CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
